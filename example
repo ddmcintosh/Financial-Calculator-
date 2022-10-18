@@ -1,0 +1,12 @@
+// sample input 
+
+
+// sample calculation 
+interest = (amount * (rate * 0.01))/months;
+total = ((amount/months) + interest);
+
+// output 
+console.log(" Your monthly loan is $ " + total );
+
+
+
